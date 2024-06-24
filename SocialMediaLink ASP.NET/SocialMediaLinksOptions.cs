@@ -1,4 +1,4 @@
-﻿namespace SocialMediaLink_ASP.NET.Models;
+﻿namespace SocialMediaLink_ASP.NET;
 
 public class SocialMediaLinksOptions
 {

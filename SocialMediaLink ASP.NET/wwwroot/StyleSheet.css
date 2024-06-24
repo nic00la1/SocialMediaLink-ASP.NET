@@ -3,3 +3,30 @@
     font-size: 18px;
     background-color: #f7f7f7;
 }
+
+.container {
+    margin: 0 auto;
+    padding: 0 20px;
+    max-width: 1200px;
+}
+
+.page-content {
+    margin-top: 20px;
+}
+
+.margin-bottom {
+        margin-bottom: 20px;
+}
+
+.flex {
+        display: flex;
+    justify-content: space-between;
+}
+
+.box {
+        background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
